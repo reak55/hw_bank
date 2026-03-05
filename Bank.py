@@ -106,6 +106,7 @@ class BusinessAccount(BankAccount):
             loan = float(input("Input loan amount: "))
             self._BankAccount__balance += loan
             print(f"Loan approved. Your new balance is: {self._BankAccount__balance}")
+            print("====1khea ber ot song vinh kat dick joal!!====")
         else:
             print("Access denied.")
              
