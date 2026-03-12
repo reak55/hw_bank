@@ -219,7 +219,7 @@ class BusinessAccount(BankAccount):
 
 
 reak = BankAccount(name="reak", balance=5000, secret="achko")
-rong = BankAccount(name="rong", balance=2000, secret="ruk" )
+rong = BankAccount(name="rong", balance=2000, secret="3333" )
     #reak.check_balance()
     #reak.withdraw()
 
@@ -238,4 +238,5 @@ reak = BusinessAccount(name="reak", balance=5000, secret="achko")
 reak = PremiumSaving(name="luffy", balance= 5000, secret= "3344")
     #reak.deposit()
 
-reak = accounts()
+
+
